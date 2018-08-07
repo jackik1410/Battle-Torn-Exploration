@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <RespawnShips>
+    <Ship>
+      <Id>
+        <TypeId>RespawnShipDefinition</TypeId>
+        <SubtypeId>ASI-Respawn Ship crash</SubtypeId>
+      </Id>
+      <DisplayName>engine fail</DisplayName>
+      <Icon>Textures\GUI\Icons\Fake.dds</Icon>
+      <CooldownSeconds>30</CooldownSeconds>
+      <Prefab>ASI-Respawn Ship crash</Prefab>
+    </Ship>
+    <Ship>
+      <Id>
+        <TypeId>RespawnShipDefinition</TypeId>
+        <SubtypeId>[NER] Destroyer</SubtypeId>
+      </Id>
+      <DisplayName>reactor overload in 4</DisplayName>
+      <Icon>Textures\GUI\Icons\Fake.dds</Icon>
+      <CooldownSeconds>30</CooldownSeconds>
+      <Prefab>[NER] Destroyer</Prefab>
+    </Ship>
+    <Ship>
+      <Id>
+        <TypeId>RespawnShipDefinition</TypeId>
+        <SubtypeId>LanderPod</SubtypeId>
+      </Id>
+      <DisplayName>Lander Pod</DisplayName>
+      <Icon>Textures\GUI\Icons\Fake.dds</Icon>
+      <CooldownSeconds>30</CooldownSeconds>
+      <Prefab>LanderPod</Prefab>
+    </Ship>
+    <Ship>
+      <Id>
+        <TypeId>RespawnShipDefinition</TypeId>
+        <SubtypeId>noob test Sylph Starter</SubtypeId>
+      </Id>
+      <DisplayName>noob crash start</DisplayName>
+      <Icon>Textures\GUI\Icons\Fake.dds</Icon>
+      <CooldownSeconds>30</CooldownSeconds>
+      <Prefab>noob test Sylph Starter</Prefab>
+    </Ship>
+  </RespawnShips>                
+</Definitions>

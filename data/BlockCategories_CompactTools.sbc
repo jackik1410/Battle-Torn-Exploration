@@ -1,0 +1,62 @@
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CategoryClasses>
+ 
+     <Category xsi:type="MyObjectBuilder_GuiBlockCategoryDefinition">
+      <Id>
+        <TypeId>GuiBlockCategoryDefinition</TypeId>
+        <SubtypeId/>
+      </Id>
+      <DisplayName>DisplayName_Category_ShipWeaponsTools</DisplayName>
+      <Name>ShipWeaponsTools</Name>
+      <SearchBlocks>false</SearchBlocks>
+      <IsShipCategory>true</IsShipCategory>
+      <IsBlockCategory>true</IsBlockCategory>
+      <ItemIds>
+	  	<string>ShipWelder/RB_CompactWelderNear_Small</string>
+		<string>ShipWelder/RB_CompactWelderMedium_Small</string>
+		<string>ShipWelder/RB_CompactWelderFar_Small</string>
+		<string>ShipGrinder/RB_CompactGrinderNear_Small</string>
+		<string>ShipGrinder/RB_CompactGrinderMedium_Small</string>
+		<string>ShipGrinder/RB_CompactGrinderFar_Small</string>
+		<string>Drill/RB_CompactDrill_Small</string>
+      </ItemIds>
+    </Category>
+	
+   <Category xsi:type="MyObjectBuilder_GuiBlockCategoryDefinition">
+	  <Id>
+		<TypeId>GuiBlockCategoryDefinition</TypeId>
+		<SubtypeId/>
+	  </Id>
+	  <DisplayName>DisplayName_Category_ShipWeaponsTools</DisplayName>
+	  <Name>WeaponsTools</Name>
+	  <ItemIds>
+	  	  	<string>ShipWelder/RB_CompactWelderNear_Small</string>
+		<string>ShipWelder/RB_CompactWelderMedium_Small</string>
+		<string>ShipWelder/RB_CompactWelderFar_Small</string>
+		<string>ShipGrinder/RB_CompactGrinderNear_Small</string>
+		<string>ShipGrinder/RB_CompactGrinderMedium_Small</string>
+		<string>ShipGrinder/RB_CompactGrinderFar_Small</string>
+				<string>Drill/RB_CompactDrill_Small</string>
+	  </ItemIds>  
+  </Category>
+
+ 	<Category xsi:type="MyObjectBuilder_GuiBlockCategoryDefinition">
+      <Id>
+        <TypeId>GuiBlockCategoryDefinition</TypeId>
+        <SubtypeId/>
+      </Id>
+      <DisplayName>(RB) Ravenbolt Mods</DisplayName>
+      <Name>(RB) Ravenbolt Mods</Name>
+      <ItemIds>
+	  	  	<string>ShipWelder/RB_CompactWelderNear_Small</string>
+		<string>ShipWelder/RB_CompactWelderMedium_Small</string>
+		<string>ShipWelder/RB_CompactWelderFar_Small</string>
+		<string>ShipGrinder/RB_CompactGrinderNear_Small</string>
+		<string>ShipGrinder/RB_CompactGrinderMedium_Small</string>
+		<string>ShipGrinder/RB_CompactGrinderFar_Small</string>
+				<string>Drill/RB_CompactDrill_Small</string>
+      </ItemIds>
+    </Category>
+  
+  </CategoryClasses>
+</Definitions>

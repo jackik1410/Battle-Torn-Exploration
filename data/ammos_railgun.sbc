@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Ammos>
+    <Ammo xsi:type="MyObjectBuilder_ProjectileAmmoDefinition">
+      <Id>
+        <TypeId>AmmoDefinition</TypeId>
+        <SubtypeId>RailgunNiFeSlugLZM</SubtypeId>
+      </Id>
+      <BasicProperties>
+        <DesiredSpeed>5000</DesiredSpeed>
+        <SpeedVariance>0</SpeedVariance>
+        <MaxTrajectory>3000</MaxTrajectory><!--Default server sync range is 3 km. Projectiles stop being visible beyond this range...-->
+        <BackkickForce>1000000</BackkickForce> <!--I wanted beefier kick-->
+      </BasicProperties>
+      <ProjectileProperties>
+        <ProjectileHitImpulse>225000</ProjectileHitImpulse>
+        <ProjectileMassDamage>0.75</ProjectileMassDamage> <!--Penertation damage: This is multiplied by 100,000 in the script. So 0.2 => 20,000 penetration damage-->
+        <ProjectileHealthDamage>1000</ProjectileHealthDamage>
+        <ProjectileTrailScale>5</ProjectileTrailScale>
+        <ProjectileTrailColor x="0.0" y="0.5" z="1.0" />
+        <ProjectileTrailProbability>0.0</ProjectileTrailProbability>
+      </ProjectileProperties>
+    </Ammo>
+  </Ammos>
+</Definitions>

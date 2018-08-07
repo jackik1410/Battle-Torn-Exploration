@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BlueprintClasses>
+  </BlueprintClasses>
+  <BlueprintClassEntries>
+	<Entry Class="LargeBlocks" BlueprintSubtypeId="CubeBlock/curvedBlock1_12r" />
+	<Entry Class="LargeBlocks" BlueprintSubtypeId="CubeBlock/curvedBlock1_18rlg" />
+	<Entry Class="LargeBlocks" BlueprintSubtypeId="CubeBlock/curvedBlock3_12r" />
+	<Entry Class="LargeBlocks" BlueprintSubtypeId="CubeBlock/curvedBlock3_18r" />
+	<Entry Class="LargeBlocks" BlueprintSubtypeId="CubeBlock/curvedBlock4_18r" />
+	<Entry Class="LargeBlocks" BlueprintSubtypeId="CubeBlock/curvedBlockInt1_15r" />
+	<Entry Class="LargeBlocks" BlueprintSubtypeId="CubeBlock/curvedBlockInt2_15r" />
+	<Entry Class="LargeBlocks" BlueprintSubtypeId="CubeBlock/curvedBlockInt4_15r" />
+	<Entry Class="LargeBlocks" BlueprintSubtypeId="CubeBlock/curvedBlockInt5_15r" />
+	<Entry Class="LargeBlocks" BlueprintSubtypeId="CubeBlock/curvedWindow1_18r" />
+	<Entry Class="LargeBlocks" BlueprintSubtypeId="CubeBlock/curvedWindow3_18r" />
+	<Entry Class="LargeBlocks" BlueprintSubtypeId="CubeBlock/curvedWindow5_18r" />
+
+	<Entry Class="SmallBlocks" BlueprintSubtypeId="CubeBlock/curvedBlock1_18rsm" />
+	<Entry Class="SmallBlocks" BlueprintSubtypeId="CubeBlock/curvedBlock2_18rSm" />
+	<Entry Class="SmallBlocks" BlueprintSubtypeId="CubeBlock/curvedBlock3_18rSm" />
+	<Entry Class="SmallBlocks" BlueprintSubtypeId="CubeBlock/curvedBlock4_18rSm" />
+	<Entry Class="SmallBlocks" BlueprintSubtypeId="CubeBlock/curvedBlock5_18rSm" />
+	<Entry Class="SmallBlocks" BlueprintSubtypeId="CubeBlock/curvedBlockInt1_15rSm" />
+	<Entry Class="SmallBlocks" BlueprintSubtypeId="CubeBlock/curvedBlockInt2_15rSm" />
+	<Entry Class="SmallBlocks" BlueprintSubtypeId="CubeBlock/curvedBlockInt3_15rSm" />
+	<Entry Class="SmallBlocks" BlueprintSubtypeId="CubeBlock/curvedBlockInt4_15rSm" />
+	<Entry Class="SmallBlocks" BlueprintSubtypeId="CubeBlock/curvedBlockInt515rSm" />
+	<Entry Class="LargeBlocks" BlueprintSubtypeId="CubeBlock/curvedBlock2_12r" />
+	<Entry Class="LargeBlocks" BlueprintSubtypeId="CubeBlock/curvedBlock2_18r" />
+	<Entry Class="LargeBlocks" BlueprintSubtypeId="CubeBlock/curvedBlock5_18r" />
+	<Entry Class="LargeBlocks" BlueprintSubtypeId="CubeBlock/curvedBlockInt3_15r" />
+	<Entry Class="LargeBlocks" BlueprintSubtypeId="CubeBlock/curvedWindow2_18r" />
+	<Entry Class="LargeBlocks" BlueprintSubtypeId="CubeBlock/curvedWindow4_18r" />
+  </BlueprintClassEntries>
+</Definitions>

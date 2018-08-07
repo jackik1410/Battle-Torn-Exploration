@@ -1,0 +1,264 @@
+<?xml version="1.0"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CubeBlocks>
+	<Definition>
+	<Id>
+	<TypeId>CubeBlock</TypeId>
+	<SubtypeId>curvedBlock1_18rsm</SubtypeId>
+	</Id>
+	<DisplayName>Curve #1 18R</DisplayName>
+	<Icon>Textures\GUI\Icons\Cubes\crv1_18r_ico.dds</Icon>
+	<CubeSize>Small</CubeSize> 
+	<BlockTopology>TriangleMesh</BlockTopology>
+	<Size x="5" y="1" z="1" />
+	<ModelOffset x="-1.25" y="-0.25" z="-0.25" />
+	<Model>Models\crv1_18r_sm.mwm</Model>
+	<Components>
+	<Component Subtype="SteelPlate" Count="25" />
+	<Component Subtype="SmallTube" Count="15" />
+	</Components>
+	<CriticalComponent Subtype="SteelPlate" Index="0" />
+	<BlockPairName>curvedBlock1_18r</BlockPairName>
+	<MirroringY>X</MirroringY>
+	<MirroringZ>Y</MirroringZ>
+	<EdgeType>Light</EdgeType>
+	<BuildTimeSeconds>10</BuildTimeSeconds>
+	<DisassembleRatio>2.5</DisassembleRatio>
+      <IsAirTight>true</IsAirTight>
+    </Definition>
+
+	<Definition>
+	<Id>
+	<TypeId>CubeBlock</TypeId>
+	<SubtypeId>curvedBlock2_18rSm</SubtypeId>
+	</Id>
+	<DisplayName>Curve #2 18R</DisplayName>
+	<Icon>Textures\GUI\Icons\Cubes\crv2_18r_ico.dds</Icon>
+	<CubeSize>Small</CubeSize> 
+	<BlockTopology>TriangleMesh</BlockTopology>
+	<Size x="2" y="2" z="1" />
+	<ModelOffset x="-0.5" y="-0.5" z="-0.25" />
+	<Model>Models\crv2_18r_sm.mwm</Model>
+	<Components>
+	<Component Subtype="SteelPlate" Count="100" />
+	<Component Subtype="SmallTube" Count="52" />
+	</Components>
+	<CriticalComponent Subtype="SteelPlate" Index="0" />
+	<BlockPairName>curvedBlock2_18r</BlockPairName>
+	<MirroringY>X</MirroringY>
+	<MirroringZ>Y</MirroringZ>
+	<EdgeType>Light</EdgeType>
+	<BuildTimeSeconds>25</BuildTimeSeconds>
+	<DisassembleRatio>2.5</DisassembleRatio>
+      <IsAirTight>true</IsAirTight>
+	</Definition>
+
+	<Definition>
+	<Id>
+	<TypeId>CubeBlock</TypeId>
+	<SubtypeId>curvedBlock3_18rSm</SubtypeId>
+	</Id>
+	<DisplayName>Curve #3 18R</DisplayName>
+	<Icon>Textures\GUI\Icons\Cubes\crv3_18r_ico.dds</Icon>
+	<CubeSize>Small</CubeSize> 
+	<BlockTopology>TriangleMesh</BlockTopology>
+	<Size x="2" y="2" z="1" />
+	<ModelOffset x="-0.5" y="-0.5" z="-0.25" />
+	<Model>Models\crv3_18r_sm.mwm</Model>
+	<Components>
+	<Component Subtype="SteelPlate" Count="100" />
+	<Component Subtype="SmallTube" Count="52" />
+	</Components>
+	<CriticalComponent Subtype="SteelPlate" Index="0" />
+	<BlockPairName>curvedBlock3_18r</BlockPairName>
+	<MirroringY>X</MirroringY>
+	<MirroringZ>Y</MirroringZ>
+	<EdgeType>Light</EdgeType>
+	<BuildTimeSeconds>25</BuildTimeSeconds>
+	<DisassembleRatio>2.5</DisassembleRatio>
+      <IsAirTight>true</IsAirTight>
+	</Definition>
+
+	<Definition>
+	<Id>
+	<TypeId>CubeBlock</TypeId>
+	<SubtypeId>curvedBlock4_18rSm</SubtypeId>
+	</Id>
+	<DisplayName>Curve #4 18R</DisplayName> 
+	<Icon>Textures\GUI\Icons\Cubes\crv4_18r_ico.dds</Icon>
+	<CubeSize>Small</CubeSize> 
+	<BlockTopology>TriangleMesh</BlockTopology>
+	<Size x="2" y="2" z="1" />
+	<ModelOffset x="-0.5" y="-0.5" z="-0.25" />
+	<Model>Models\crv4_18r_sm.mwm</Model>
+	<Components>
+	<Component Subtype="SteelPlate" Count="100" />
+	<Component Subtype="SmallTube" Count="52" />
+	</Components>
+	<CriticalComponent Subtype="SteelPlate" Index="0" />
+	<BlockPairName>curvedBlock4_18r</BlockPairName>
+	<MirroringY>X</MirroringY>
+	<MirroringZ>Y</MirroringZ>
+	<EdgeType>Light</EdgeType>
+	<BuildTimeSeconds>25</BuildTimeSeconds>
+	<DisassembleRatio>2.5</DisassembleRatio>
+      <IsAirTight>true</IsAirTight>
+    </Definition>
+
+	<Definition>
+	<Id>
+	<TypeId>CubeBlock</TypeId>
+	<SubtypeId>curvedBlock5_18rSm</SubtypeId>
+	</Id>
+	<DisplayName>Curve #5 18R</DisplayName>
+	<Icon>Textures\GUI\Icons\Cubes\crv5_18r_ico.dds</Icon>
+	<CubeSize>Small</CubeSize> 
+	<BlockTopology>TriangleMesh</BlockTopology>
+	<Size x="1" y="2" z="1" />
+	<ModelOffset x="-0.25" y="-0.5" z="-0.25" />
+	<Model>Models\crv5_18r_sm.mwm</Model>
+	<Components>
+	<Component Subtype="SteelPlate" Count="100" />
+	<Component Subtype="SmallTube" Count="52" />
+	</Components>
+	<CriticalComponent Subtype="SteelPlate" Index="0" />
+	<BlockPairName>curvedBlock5_18r</BlockPairName>
+	<MirroringY>X</MirroringY>
+	<MirroringZ>Y</MirroringZ>
+	<EdgeType>Light</EdgeType>
+	<BuildTimeSeconds>25</BuildTimeSeconds>
+	<DisassembleRatio>2.5</DisassembleRatio>
+      <IsAirTight>true</IsAirTight>
+    </Definition>
+
+	<Definition>
+	<Id>
+	<TypeId>CubeBlock</TypeId>
+	<SubtypeId>curvedBlockInt1_15rSm</SubtypeId>
+	</Id>
+	<DisplayName>Interior Curve #1 15R</DisplayName>
+	<Icon>Textures\GUI\Icons\Cubes\int1_15r_ico.dds</Icon>
+	<CubeSize>Small</CubeSize> 
+	<BlockTopology>TriangleMesh</BlockTopology>
+	<Size x="3" y="1" z="1" />
+	<ModelOffset x="0" y="0" z="0" />
+	<Model>Models\int1_15r_sm.mwm</Model>
+	<Components>
+	<Component Subtype="SteelPlate" Count="96" />
+	<Component Subtype="SmallTube" Count="48" />
+	</Components>
+	<CriticalComponent Subtype="SteelPlate" Index="0" />
+	<BlockPairName>curvedBlockInt1_15r</BlockPairName>
+	<MirroringY>X</MirroringY>
+	<MirroringZ>Y</MirroringZ>
+	<EdgeType>Light</EdgeType>
+	<BuildTimeSeconds>40</BuildTimeSeconds>
+	<DisassembleRatio>2.5</DisassembleRatio>
+      <IsAirTight>true</IsAirTight>
+    </Definition>
+
+	<Definition>
+	<Id>
+	<TypeId>CubeBlock</TypeId>
+	<SubtypeId>curvedBlockInt2_15rSm</SubtypeId>
+	</Id>
+	<DisplayName>Interior Curve #2 15R</DisplayName>
+	<Icon>Textures\GUI\Icons\Cubes\int2_15r_ico.dds</Icon>
+	<CubeSize>Small</CubeSize> 
+	<BlockTopology>TriangleMesh</BlockTopology>
+	<Size x="3" y="1" z="1" />
+	<ModelOffset x="0" y="0" z="0" />
+	<Model>Models\int2_15r_sm.mwm</Model>
+	<Components>
+	<Component Subtype="SteelPlate" Count="96" />
+	<Component Subtype="SmallTube" Count="48" />
+	</Components>
+	<CriticalComponent Subtype="SteelPlate" Index="0" />
+	<BlockPairName>curvedBlockInt2_15r</BlockPairName>
+	<MirroringY>X</MirroringY>
+	<MirroringZ>Y</MirroringZ>
+	<EdgeType>Light</EdgeType>
+	<BuildTimeSeconds>40</BuildTimeSeconds>
+	<DisassembleRatio>2.5</DisassembleRatio>
+      <IsAirTight>true</IsAirTight>
+    </Definition>
+
+	<Definition>
+	<Id>
+	<TypeId>CubeBlock</TypeId>
+	<SubtypeId>curvedBlockInt3_15rSm</SubtypeId>
+	</Id>
+	<DisplayName>Interior Curve #3 15R</DisplayName>
+	<Icon>Textures\GUI\Icons\Cubes\int3_15r_ico.dds</Icon>
+	<CubeSize>Small</CubeSize> 
+	<BlockTopology>TriangleMesh</BlockTopology>
+	<Size x="2" y="1" z="1" />
+	<ModelOffset x="0" y="0" z="0" />
+	<Model>Models\int3_15r_sm.mwm</Model>
+	<Components>
+	<Component Subtype="SteelPlate" Count="96" />
+	<Component Subtype="SmallTube" Count="48" />
+	</Components>
+	<CriticalComponent Subtype="SteelPlate" Index="0" />
+	<BlockPairName>curvedBlockInt3_15r</BlockPairName>
+	<MirroringY>X</MirroringY>
+	<MirroringZ>Y</MirroringZ>
+	<EdgeType>Light</EdgeType>
+	<BuildTimeSeconds>40</BuildTimeSeconds>
+	<DisassembleRatio>2.5</DisassembleRatio>
+      <IsAirTight>true</IsAirTight>
+    </Definition>
+
+	<Definition>
+	<Id>
+	<TypeId>CubeBlock</TypeId>
+	<SubtypeId>curvedBlockInt4_15rSm</SubtypeId>
+	</Id>
+	<DisplayName>Interior Curve #4 15R</DisplayName>
+	<Icon>Textures\GUI\Icons\Cubes\int4_15r_ico.dds</Icon>
+	<CubeSize>Small</CubeSize> 
+	<BlockTopology>TriangleMesh</BlockTopology>
+	<Size x="2" y="1" z="1" />
+	<ModelOffset x="0" y="0" z="0" />
+	<Model>Models\int4_15r_sm.mwm</Model>
+	<Components>
+	<Component Subtype="SteelPlate" Count="96" />
+	<Component Subtype="SmallTube" Count="48" />
+	</Components>
+	<CriticalComponent Subtype="SteelPlate" Index="0" />
+	<BlockPairName>curvedBlockInt4_15r</BlockPairName>
+	<MirroringY>X</MirroringY>
+	<MirroringZ>Y</MirroringZ>
+	<EdgeType>Light</EdgeType>
+	<BuildTimeSeconds>40</BuildTimeSeconds>
+	<DisassembleRatio>2.5</DisassembleRatio>
+      <IsAirTight>true</IsAirTight>
+    </Definition>
+
+	<Definition>
+	<Id>
+	<TypeId>CubeBlock</TypeId>
+	<SubtypeId>curvedBlockInt515rSm</SubtypeId>
+	</Id>
+	<DisplayName>Interior Curve #5 15R</DisplayName>
+	<Icon>Textures\GUI\Icons\Cubes\int5_15r_ico.dds</Icon>
+	<CubeSize>Small</CubeSize> 
+	<BlockTopology>TriangleMesh</BlockTopology>
+	<Size x="1" y="1" z="1" />
+	<ModelOffset x="0" y="0" z="0" />
+	<Model>Models\int5_15r_sm.mwm</Model>
+	<Components>
+	<Component Subtype="SteelPlate" Count="96" />
+	<Component Subtype="SmallTube" Count="48" />
+	</Components>
+	<CriticalComponent Subtype="SteelPlate" Index="0" />
+	<BlockPairName>curvedBlockInt5_15r</BlockPairName>
+	<MirroringY>X</MirroringY>
+	<MirroringZ>Y</MirroringZ>
+	<EdgeType>Light</EdgeType>
+	<BuildTimeSeconds>40</BuildTimeSeconds>
+	<DisassembleRatio>2.5</DisassembleRatio>
+      <IsAirTight>true</IsAirTight>
+    </Definition>
+  </CubeBlocks>
+</Definitions>

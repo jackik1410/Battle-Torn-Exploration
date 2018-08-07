@@ -1,0 +1,486 @@
+<?xml version="1.0"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SpawnGroups>
+    <SpawnGroup>
+      <Id>
+        <TypeId>SpawnGroupDefinition</TypeId>
+        <SubtypeId>crashed Volunder exploration ship</SubtypeId>
+      </Id>
+      <Icon>Textures\GUI\Icons\Fake.dds</Icon>
+      <IsEncounter>true</IsEncounter>
+      <Speed>0.0</Speed>
+      <Frequency>10.0</Frequency>
+      <Prefabs>
+        <Prefab SubtypeId="crashed Volunder exploration ship">
+          <Position>
+            <X>0.0</X>
+            <Y>0.0</Y>
+            <Z>0.0</Z>
+          </Position>
+          <Speed>0</Speed>
+        </Prefab>
+      </Prefabs>
+    </SpawnGroup>
+    <SpawnGroup>
+      <Id>
+        <TypeId>SpawnGroupDefinition</TypeId>
+        <SubtypeId>crashed Proxima</SubtypeId>
+      </Id>
+      <Icon>Textures\GUI\Icons\Fake.dds</Icon>
+      <IsEncounter>true</IsEncounter>
+      <Speed>0.0</Speed>
+      <Frequency>10.0</Frequency>
+      <Prefabs>
+        <Prefab SubtypeId="crashed Proxima">
+          <Position>
+            <X>0.0</X>
+            <Y>0.0</Y>
+            <Z>0.0</Z>
+          </Position>
+          <Speed>0</Speed>
+        </Prefab>
+      </Prefabs>
+    </SpawnGroup>
+    <SpawnGroup>
+      <Id>
+        <TypeId>SpawnGroupDefinition</TypeId>
+        <SubtypeId>crashed STARTERSHIP</SubtypeId>
+      </Id>
+      <Icon>Textures\GUI\Icons\Fake.dds</Icon>
+      <IsEncounter>true</IsEncounter>
+      <Speed>0.0</Speed>
+      <Frequency>10.0</Frequency>
+      <Prefabs>
+        <Prefab SubtypeId="crashed STARTERSHIP">
+          <Position>
+            <X>0.0</X>
+            <Y>0.0</Y>
+            <Z>0.0</Z>
+          </Position>
+          <Speed>0</Speed>
+        </Prefab>
+      </Prefabs>
+    </SpawnGroup>
+    <SpawnGroup>
+      <Id>
+        <TypeId>SpawnGroupDefinition</TypeId>
+        <SubtypeId>crashed Argentavis mk.1</SubtypeId>
+      </Id>
+      <Icon>Textures\GUI\Icons\Fake.dds</Icon>
+      <IsEncounter>true</IsEncounter>
+      <Speed>0.0</Speed>
+      <Frequency>10.0</Frequency>
+      <Prefabs>
+        <Prefab SubtypeId="crashed Argentavis mk.1">
+          <Position>
+            <X>0.0</X>
+            <Y>0.0</Y>
+            <Z>0.0</Z>
+          </Position>
+          <Speed>0</Speed>
+        </Prefab>
+      </Prefabs>
+    </SpawnGroup>
+    <SpawnGroup>
+      <Id>
+        <TypeId>SpawnGroupDefinition</TypeId>
+        <SubtypeId>crash Xedus Ophiniam class Attack Frigate</SubtypeId>
+      </Id>
+      <Icon>Textures\GUI\Icons\Fake.dds</Icon>
+      <IsEncounter>true</IsEncounter>
+      <Speed>0.0</Speed>
+      <Frequency>10.0</Frequency>
+      <Prefabs>
+        <Prefab SubtypeId="crash Xedus Ophiniam class Attack Frigate">
+          <Position>
+            <X>0.0</X>
+            <Y>0.0</Y>
+            <Z>0.0</Z>
+          </Position>
+          <Speed>0</Speed>
+        </Prefab>
+      </Prefabs>
+    </SpawnGroup>
+    <SpawnGroup>
+      <Id>
+        <TypeId>SpawnGroupDefinition</TypeId>
+        <SubtypeId>crashed Shikoba MK II RP</SubtypeId>
+      </Id>
+      <Icon>Textures\GUI\Icons\Fake.dds</Icon>
+      <IsEncounter>true</IsEncounter>
+      <Speed>0.0</Speed>
+      <Frequency>10.0</Frequency>
+      <Prefabs>
+        <Prefab SubtypeId="crashed Shikoba MK II RP">
+          <Position>
+            <X>0.0</X>
+            <Y>0.0</Y>
+            <Z>0.0</Z>
+          </Position>
+          <Speed>0</Speed>
+        </Prefab>
+      </Prefabs>
+    </SpawnGroup>
+    <SpawnGroup>
+      <Id>
+        <TypeId>SpawnGroupDefinition</TypeId>
+        <SubtypeId>crashed Calypso Mk II_1</SubtypeId>
+      </Id>
+      <Icon>Textures\GUI\Icons\Fake.dds</Icon>
+      <IsEncounter>true</IsEncounter>
+      <Speed>0.0</Speed>
+      <Frequency>10.0</Frequency>
+      <Prefabs>
+        <Prefab SubtypeId="crashed Calypso Mk II_1">
+          <Position>
+            <X>0.0</X>
+            <Y>0.0</Y>
+            <Z>0.0</Z>
+          </Position>
+          <Speed>0</Speed>
+        </Prefab>
+      </Prefabs>
+    </SpawnGroup>
+    <SpawnGroup>
+      <Id>
+        <TypeId>SpawnGroupDefinition</TypeId>
+        <SubtypeId>crashed Felix Multi Task</SubtypeId>
+      </Id>
+      <Icon>Textures\GUI\Icons\Fake.dds</Icon>
+      <IsEncounter>true</IsEncounter>
+      <Speed>0.0</Speed>
+      <Frequency>10.0</Frequency>
+      <Prefabs>
+        <Prefab SubtypeId="crashed Felix Multi Task">
+          <Position>
+            <X>0.0</X>
+            <Y>0.0</Y>
+            <Z>0.0</Z>
+          </Position>
+          <Speed>0</Speed>
+        </Prefab>
+      </Prefabs>
+    </SpawnGroup>
+    <SpawnGroup>
+      <Id>
+        <TypeId>SpawnGroupDefinition</TypeId>
+        <SubtypeId>crashed attack transport</SubtypeId>
+      </Id>
+      <Icon>Textures\GUI\Icons\Fake.dds</Icon>
+      <IsEncounter>true</IsEncounter>
+      <Speed>0.0</Speed>
+      <Frequency>10.0</Frequency>
+      <Prefabs>
+        <Prefab SubtypeId="crashed attack transport">
+          <Position>
+            <X>0.0</X>
+            <Y>0.0</Y>
+            <Z>0.0</Z>
+          </Position>
+          <Speed>0</Speed>
+        </Prefab>
+      </Prefabs>
+    </SpawnGroup>
+    <SpawnGroup>
+      <Id>
+        <TypeId>SpawnGroupDefinition</TypeId>
+        <SubtypeId>crashed pirat cargo</SubtypeId>
+      </Id>
+      <Icon>Textures\GUI\Icons\Fake.dds</Icon>
+      <IsEncounter>true</IsEncounter>
+      <Speed>0.0</Speed>
+      <Frequency>10.0</Frequency>
+      <Prefabs>
+        <Prefab SubtypeId="crashed pirat cargo">
+          <Position>
+            <X>0.0</X>
+            <Y>0.0</Y>
+            <Z>0.0</Z>
+          </Position>
+          <Speed>0</Speed>
+        </Prefab>
+      </Prefabs>
+    </SpawnGroup>
+    <SpawnGroup>
+      <Id>
+        <TypeId>SpawnGroupDefinition</TypeId>
+        <SubtypeId>crashed jess</SubtypeId>
+      </Id>
+      <Icon>Textures\GUI\Icons\Fake.dds</Icon>
+      <IsEncounter>true</IsEncounter>
+      <Speed>0.0</Speed>
+      <Frequency>10.0</Frequency>
+      <Prefabs>
+        <Prefab SubtypeId="crashed jess">
+          <Position>
+            <X>0.0</X>
+            <Y>0.0</Y>
+            <Z>0.0</Z>
+          </Position>
+          <Speed>0</Speed>
+        </Prefab>
+      </Prefabs>
+    </SpawnGroup>
+    <SpawnGroup>
+      <Id>
+        <TypeId>SpawnGroupDefinition</TypeId>
+        <SubtypeId>crashed Brynhildr type.A with RG</SubtypeId>
+      </Id>
+      <Icon>Textures\GUI\Icons\Fake.dds</Icon>
+      <IsEncounter>true</IsEncounter>
+      <Speed>0.0</Speed>
+      <Frequency>10.0</Frequency>
+      <Prefabs>
+        <Prefab SubtypeId="crashed Brynhildr type.A with RG">
+          <Position>
+            <X>0.0</X>
+            <Y>0.0</Y>
+            <Z>0.0</Z>
+          </Position>
+          <Speed>0</Speed>
+        </Prefab>
+      </Prefabs>
+    </SpawnGroup>
+    <SpawnGroup>
+      <Id>
+        <TypeId>SpawnGroupDefinition</TypeId>
+        <SubtypeId>crashed Firebrand Atmo Interceptor</SubtypeId>
+      </Id>
+      <Icon>Textures\GUI\Icons\Fake.dds</Icon>
+      <IsEncounter>true</IsEncounter>
+      <Speed>0.0</Speed>
+      <Frequency>10.0</Frequency>
+      <Prefabs>
+        <Prefab SubtypeId="crashed Firebrand Atmo Interceptor">
+          <Position>
+            <X>0.0</X>
+            <Y>0.0</Y>
+            <Z>0.0</Z>
+          </Position>
+          <Speed>0</Speed>
+        </Prefab>
+      </Prefabs>
+    </SpawnGroup>
+    <SpawnGroup>
+      <Id>
+        <TypeId>SpawnGroupDefinition</TypeId>
+        <SubtypeId>crashed IMDC A-2 'Aegir' Fighter</SubtypeId>
+      </Id>
+      <Icon>Textures\GUI\Icons\Fake.dds</Icon>
+      <IsEncounter>true</IsEncounter>
+      <Speed>0.0</Speed>
+      <Frequency>10.0</Frequency>
+      <Prefabs>
+        <Prefab SubtypeId="crashed IMDC A-2 'Aegir' Fighter">
+          <Position>
+            <X>0.0</X>
+            <Y>0.0</Y>
+            <Z>0.0</Z>
+          </Position>
+          <Speed>0</Speed>
+        </Prefab>
+      </Prefabs>
+    </SpawnGroup>
+    <SpawnGroup>
+      <Id>
+        <TypeId>SpawnGroupDefinition</TypeId>
+        <SubtypeId>crashed Viking</SubtypeId>
+      </Id>
+      <Icon>Textures\GUI\Icons\Fake.dds</Icon>
+      <IsEncounter>true</IsEncounter>
+      <Speed>0.0</Speed>
+      <Frequency>10.0</Frequency>
+      <Prefabs>
+        <Prefab SubtypeId="crashed Viking">
+          <Position>
+            <X>0.0</X>
+            <Y>0.0</Y>
+            <Z>0.0</Z>
+          </Position>
+          <Speed>0</Speed>
+        </Prefab>
+      </Prefabs>
+    </SpawnGroup>
+    <SpawnGroup>
+      <Id>
+        <TypeId>SpawnGroupDefinition</TypeId>
+        <SubtypeId>crashedAX-16 Expedition</SubtypeId>
+      </Id>
+      <Icon>Textures\GUI\Icons\Fake.dds</Icon>
+      <IsEncounter>true</IsEncounter>
+      <Speed>0.0</Speed>
+      <Frequency>10.0</Frequency>
+      <Prefabs>
+        <Prefab SubtypeId="crashedAX-16 Expedition">
+          <Position>
+            <X>0.0</X>
+            <Y>0.0</Y>
+            <Z>0.0</Z>
+          </Position>
+          <Speed>0</Speed>
+        </Prefab>
+      </Prefabs>
+    </SpawnGroup>
+    <SpawnGroup>
+      <Id>
+        <TypeId>SpawnGroupDefinition</TypeId>
+        <SubtypeId>crashed AX-15 Condor</SubtypeId>
+      </Id>
+      <Icon>Textures\GUI\Icons\Fake.dds</Icon>
+      <IsEncounter>true</IsEncounter>
+      <Speed>0.0</Speed>
+      <Frequency>10.0</Frequency>
+      <Prefabs>
+        <Prefab SubtypeId="crashed AX-15 Condor">
+          <Position>
+            <X>0.0</X>
+            <Y>0.0</Y>
+            <Z>0.0</Z>
+          </Position>
+          <Speed>0</Speed>
+        </Prefab>
+      </Prefabs>
+    </SpawnGroup>
+    <SpawnGroup>
+      <Id>
+        <TypeId>SpawnGroupDefinition</TypeId>
+        <SubtypeId>crashed cargo ship</SubtypeId>
+      </Id>
+      <Icon>Textures\GUI\Icons\Fake.dds</Icon>
+      <IsEncounter>true</IsEncounter>
+      <Speed>0.0</Speed>
+      <Frequency>10.0</Frequency>
+      <Prefabs>
+        <Prefab SubtypeId="crashed cargo ship">
+          <Position>
+            <X>0.0</X>
+            <Y>0.0</Y>
+            <Z>0.0</Z>
+          </Position>
+          <Speed>0</Speed>
+        </Prefab>
+      </Prefabs>
+    </SpawnGroup>
+    <SpawnGroup>
+      <Id>
+        <TypeId>SpawnGroupDefinition</TypeId>
+        <SubtypeId>crashed Guardians of the Galaxy</SubtypeId>
+      </Id>
+      <Icon>Textures\GUI\Icons\Fake.dds</Icon>
+      <IsEncounter>true</IsEncounter>
+      <Speed>0.0</Speed>
+      <Frequency>10.0</Frequency>
+      <Prefabs>
+        <Prefab SubtypeId="crashed Guardians of the Galaxy">
+          <Position>
+            <X>0.0</X>
+            <Y>0.0</Y>
+            <Z>0.0</Z>
+          </Position>
+          <Speed>0</Speed>
+        </Prefab>
+      </Prefabs>
+    </SpawnGroup>
+    <SpawnGroup>
+      <Id>
+        <TypeId>SpawnGroupDefinition</TypeId>
+        <SubtypeId>crashed Heavy Destroyer</SubtypeId>
+      </Id>
+      <Icon>Textures\GUI\Icons\Fake.dds</Icon>
+      <IsEncounter>true</IsEncounter>
+      <Speed>0.0</Speed>
+      <Frequency>10.0</Frequency>
+      <Prefabs>
+        <Prefab SubtypeId="crashed Heavy Destroyer">
+          <Position>
+            <X>0.0</X>
+            <Y>0.0</Y>
+            <Z>0.0</Z>
+          </Position>
+          <Speed>0</Speed>
+        </Prefab>
+      </Prefabs>
+    </SpawnGroup>
+    <SpawnGroup>
+      <Id>
+        <TypeId>SpawnGroupDefinition</TypeId>
+        <SubtypeId>crashed Mako</SubtypeId>
+      </Id>
+      <Icon>Textures\GUI\Icons\Fake.dds</Icon>
+      <IsEncounter>true</IsEncounter>
+      <Speed>0.0</Speed>
+      <Frequency>10.0</Frequency>
+      <Prefabs>
+        <Prefab SubtypeId="crashed Mako">
+          <Position>
+            <X>0.0</X>
+            <Y>0.0</Y>
+            <Z>0.0</Z>
+          </Position>
+          <Speed>0</Speed>
+        </Prefab>
+      </Prefabs>
+    </SpawnGroup>
+    <SpawnGroup>
+      <Id>
+        <TypeId>SpawnGroupDefinition</TypeId>
+        <SubtypeId>crashed Wildfire Heavy Fighter</SubtypeId>
+      </Id>
+      <Icon>Textures\GUI\Icons\Fake.dds</Icon>
+      <IsEncounter>true</IsEncounter>
+      <Speed>0.0</Speed>
+      <Frequency>10.0</Frequency>
+      <Prefabs>
+        <Prefab SubtypeId="crashed Wildfire Heavy Fighter">
+          <Position>
+            <X>0.0</X>
+            <Y>0.0</Y>
+            <Z>0.0</Z>
+          </Position>
+          <Speed>0</Speed>
+        </Prefab>
+      </Prefabs>
+    </SpawnGroup>
+    <SpawnGroup>
+      <Id>
+        <TypeId>SpawnGroupDefinition</TypeId>
+        <SubtypeId>crashed Xeos Superiority Fighter</SubtypeId>
+      </Id>
+      <Icon>Textures\GUI\Icons\Fake.dds</Icon>
+      <IsEncounter>true</IsEncounter>
+      <Speed>0.0</Speed>
+      <Frequency>10.0</Frequency>
+      <Prefabs>
+        <Prefab SubtypeId="crashed Xeos Superiority Fighter">
+          <Position>
+            <X>0.0</X>
+            <Y>0.0</Y>
+            <Z>0.0</Z>
+          </Position>
+          <Speed>0</Speed>
+        </Prefab>
+      </Prefabs>
+    </SpawnGroup>
+    <SpawnGroup>
+      <Id>
+        <TypeId>SpawnGroupDefinition</TypeId>
+        <SubtypeId>crashedI Callisto'-class Carrier</SubtypeId>
+      </Id>
+      <Icon>Textures\GUI\Icons\Fake.dds</Icon>
+      <IsEncounter>true</IsEncounter>
+      <Speed>0.0</Speed>
+      <Frequency>10.0</Frequency>
+      <Prefabs>
+        <Prefab SubtypeId="crashedI Callisto'-class Carrier">
+          <Position>
+            <X>0.0</X>
+            <Y>0.0</Y>
+            <Z>0.0</Z>
+          </Position>
+          <Speed>0</Speed>
+        </Prefab>
+      </Prefabs>
+    </SpawnGroup>
+  </SpawnGroups>
+</Definitions>
+

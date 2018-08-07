@@ -1,0 +1,146 @@
+<?xml version="1.0"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CubeBlocks>
+
+<!-- Start Region Curved Windows -->
+	<Definition>
+      <Id>
+        <TypeId>CubeBlock</TypeId>
+        <SubtypeId>curvedWindow1_18r</SubtypeId>
+      </Id>
+      <DisplayName>Curved Window #1 18R</DisplayName>
+      <Icon>Textures\GUI\Icons\Cubes\ramp.dds</Icon>
+      <CubeSize>Large</CubeSize>
+      <BlockTopology>TriangleMesh</BlockTopology>
+      <Size x="1" y="1" z="5" />
+      <ModelOffset x="0" y="0" z="0" />
+      <Model>Models\win1_18r.mwm</Model>
+      <Components>
+		<Component Subtype="InteriorPlate" Count="12" />
+		<Component Subtype="Construction" Count="8" />
+		<Component Subtype="SmallTube" Count="4" />
+      </Components>
+      <CriticalComponent Subtype="Construction" Index="0" />
+      <IsAirTight>true</IsAirTight>
+      <BuildProgressModels>
+      </BuildProgressModels>
+      <BlockPairName>curvedWindow1_18r</BlockPairName>
+		<MirroringY>X</MirroringY>
+        <MirroringZ>Y</MirroringZ>
+      <BuildTimeSeconds>10</BuildTimeSeconds>
+      <EdgeType>Light</EdgeType>
+    </Definition>
+
+	<Definition>
+      <Id>
+        <TypeId>CubeBlock</TypeId>
+        <SubtypeId>curvedWindow2_18r</SubtypeId>
+      </Id>
+      <DisplayName>Curved Window #2 18R</DisplayName>
+      <Icon>Textures\GUI\Icons\Cubes\ramp.dds</Icon>
+      <CubeSize>Large</CubeSize>
+      <BlockTopology>TriangleMesh</BlockTopology>
+      <Size x="1" y="1" z="2" />
+      <ModelOffset x="0" y="0" z="0" />
+      <Model>Models\win2_18r.mwm</Model>
+      <Components>
+		<Component Subtype="InteriorPlate" Count="12" />
+		<Component Subtype="Construction" Count="8" />
+		<Component Subtype="SmallTube" Count="4" />
+      </Components>
+      <CriticalComponent Subtype="Construction" Index="0" />
+      <IsAirTight>true</IsAirTight>
+      <BuildProgressModels>
+      </BuildProgressModels>
+      <BlockPairName>curvedWindow2_18r</BlockPairName>
+		<MirroringY>X</MirroringY>
+        <MirroringZ>Y</MirroringZ>
+      <BuildTimeSeconds>10</BuildTimeSeconds>
+      <EdgeType>Light</EdgeType>
+    </Definition>
+
+	<Definition>
+      <Id>
+        <TypeId>CubeBlock</TypeId>
+        <SubtypeId>curvedWindow3_18r</SubtypeId>
+      </Id>
+      <DisplayName>Curved Window #3 18R</DisplayName>
+      <Icon>Textures\GUI\Icons\Cubes\ramp.dds</Icon>
+      <CubeSize>Large</CubeSize>
+      <BlockTopology>TriangleMesh</BlockTopology>
+	  <Size x="1" y="1" z="2" />
+	  <ModelOffset x="0" y="0" z="0" />
+	  <Model>Models\win3_18r.mwm</Model>
+      <Components>
+		<Component Subtype="InteriorPlate" Count="12" />
+		<Component Subtype="Construction" Count="8" />
+		<Component Subtype="SmallTube" Count="4" />
+      </Components>
+      <CriticalComponent Subtype="Construction" Index="0" />
+      <IsAirTight>true</IsAirTight>
+      <BuildProgressModels>
+      </BuildProgressModels>
+      <BlockPairName>curvedWindow3_18r</BlockPairName>
+		<MirroringY>X</MirroringY>
+        <MirroringZ>Y</MirroringZ>
+      <BuildTimeSeconds>10</BuildTimeSeconds>
+      <EdgeType>Light</EdgeType>
+    </Definition>
+
+	<Definition>
+      <Id>
+        <TypeId>CubeBlock</TypeId>
+        <SubtypeId>curvedWindow4_18r</SubtypeId>
+      </Id>
+      <DisplayName>Curved Window #4 18R</DisplayName>
+      <Icon>Textures\GUI\Icons\Cubes\ramp.dds</Icon>
+      <CubeSize>Large</CubeSize>
+      <BlockTopology>TriangleMesh</BlockTopology>
+	  <Size x="1" y="1" z="2" /> 
+	  <ModelOffset x="0" y="0" z="0" />
+	  <Model>Models\win4_18r.mwm</Model>
+      <Components>
+		<Component Subtype="InteriorPlate" Count="12" />
+		<Component Subtype="Construction" Count="8" />
+		<Component Subtype="SmallTube" Count="4" />
+      </Components>
+      <CriticalComponent Subtype="Construction" Index="0" />
+      <IsAirTight>true</IsAirTight>
+      <BuildProgressModels>
+      </BuildProgressModels>
+      <BlockPairName>curvedWindow4_18r</BlockPairName>
+		<MirroringY>X</MirroringY>
+        <MirroringZ>Y</MirroringZ>
+      <BuildTimeSeconds>10</BuildTimeSeconds>
+      <EdgeType>Light</EdgeType>
+    </Definition>
+
+	<Definition>
+      <Id>
+        <TypeId>CubeBlock</TypeId>
+        <SubtypeId>curvedWindow5_18r</SubtypeId>
+      </Id>
+      <DisplayName>Curved Window #5 18R</DisplayName>
+      <Icon>Textures\GUI\Icons\Cubes\ramp.dds</Icon>
+      <CubeSize>Large</CubeSize>
+      <BlockTopology>TriangleMesh</BlockTopology>
+      <Size x="1" y="1" z="1" />
+      <ModelOffset x="0" y="0" z="-0.9125" />
+      <Model>Models\win5_18r.mwm</Model>
+      <Components>
+		<Component Subtype="InteriorPlate" Count="12" />
+		<Component Subtype="Construction" Count="8" />
+		<Component Subtype="SmallTube" Count="4" />
+      </Components>
+      <CriticalComponent Subtype="Construction" Index="0" />
+      <IsAirTight>true</IsAirTight>
+      <BuildProgressModels>
+      </BuildProgressModels>
+      <BlockPairName>curvedWindow5_18r</BlockPairName>
+		<MirroringY>X</MirroringY>
+        <MirroringZ>Y</MirroringZ>
+      <BuildTimeSeconds>10</BuildTimeSeconds>
+      <EdgeType>Light</EdgeType>
+    </Definition>
+  </CubeBlocks>
+</Definitions>
